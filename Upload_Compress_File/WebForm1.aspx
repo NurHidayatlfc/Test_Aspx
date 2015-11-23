@@ -10,6 +10,14 @@
     <form id="form1" runat="server">
     <div>
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        
+        
+        
+        <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
+        
+        <asp:RadioButton ID="RadioButton1" runat="server" />
+        
+        <asp:Button ID="Button1" runat="server" Text="Button" />
     </div>
     </form>
 </body>
